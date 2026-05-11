@@ -23,5 +23,3 @@ You are expressly prohibited from:
 All suggestions and feedback you provide are given freely and grant the author a non-exclusive, perpetual, irrevocable, royalty-free, worldwide right to use, incorporate, and adapt them without attribution or compensation.
 
 ---
-
-*THE SCRIPT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SCRIPT OR THE USE OF FEEDBACK.*
