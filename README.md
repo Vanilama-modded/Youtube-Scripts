@@ -1,1 +1,1 @@
-> ⚠️ **License Notice:** This script is shared under a [Custom Viewing & Feedback License](LICENSE). You may read it and suggest improvements via Issues, but you may not copy, modify, or reuse it in your own content.
+> ⚠️ **License Notice:** This script is shared under a [Custom Viewing & Feedback License](LICENSE.md). You may read it and suggest improvements via Issues, but you may not copy, modify, or reuse it in your own content.
