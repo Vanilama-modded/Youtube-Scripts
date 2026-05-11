@@ -1,4 +1,4 @@
-> ⚠️ **License Notice:** This script is shared under a [Custom Viewing & Feedback License](LICENSE.md). You may read it and suggest improvements via Issues, but you may not copy, modify, or reuse it in your own content.
+> ⚠️ **License Notice:** The scripts fall under a shared [Custom Viewing & Feedback License](LICENSE.md). You may read it and suggest improvements via Issues, but you may not copy, modify, or reuse it in your own content.
 
-
-This is a Repository where I'll store my scripts to collaborate with others and stuff 
+## This is a Repository where I'll store my scripts to collaborate with others and stuff 
+### Scripts for different videos can be found in seperate branches
