@@ -1,11 +1,27 @@
-Custom Viewing & Feedback License
-Copyright © 2026 Vanilama. All rights reserved.
+# Custom Viewing & Feedback License
+
+**Copyright © 2026 Vanilama. All rights reserved.**
+
+## Permitted Uses
+
 You are permitted to:
-View and read this script.
-Open GitHub Issues to suggest improvements, point out errors, or discuss ideas.
-You are not permitted to:
-Copy, fork, clone, or download this script for any purpose other than viewing it in the browser.
-Modify, adapt, translate, or create derivative works from this script.
-Use this script, in whole or in part, in your own videos, podcasts, or other content.
-Share, redistribute, or republish this script on other platforms.
-All suggestions and feedback you provide are given freely and grant the author a non-exclusive, perpetual, irrevocable right to use them without attribution or compensation.
+
+- View and read this script via the GitHub web interface.
+- Open GitHub Issues to suggest improvements, point out errors, or discuss ideas.
+
+## Prohibited Uses
+
+You are expressly prohibited from:
+
+- Copying, forking, cloning, or downloading this script for any purpose other than viewing it in the browser.
+- Modifying, adapting, translating, or creating derivative works from this script.
+- Using this script, in whole or in part, in your own videos, podcasts, or other content.
+- Sharing, redistributing, or republishing this script on other platforms or media.
+
+## Feedback and Suggestions
+
+All suggestions and feedback you provide are given freely and grant the author a non-exclusive, perpetual, irrevocable, royalty-free, worldwide right to use, incorporate, and adapt them without attribution or compensation.
+
+---
+
+*THE SCRIPT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SCRIPT OR THE USE OF FEEDBACK.*
