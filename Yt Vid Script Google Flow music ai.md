@@ -27,6 +27,3 @@ Now they get all the praise and you're probably sad that your drawing that you m
 You think to yourself: **"They didn't draw that I did that, why does he get to get praised for something he didn't create"** And the problem is you're powerless, there's nothing you can do 
 Some people can maybe overlook this but the problem is that theese Ais trained on your work also take away your work. 
 Many big Companies like Coca Cola have started to use ai to generate their placements instead of hiring a professional team to film one, because ai is much cheaper and doesn't take as long as filming a video or making one with CGI
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTY4ODMxNF19
--->
