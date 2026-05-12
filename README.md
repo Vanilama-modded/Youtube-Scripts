@@ -2,3 +2,7 @@
 
 ## This is a Repository where I'll store my scripts to collaborate with others and stuff 
 ### Scripts for different videos can be found in seperate branches
+
+
+## Index:
+- [Yt-Vid-Script-Google-Flow-music-ai](https://github.com/Vanilama-modded/Youtube-Scripts/blob/Yt-Vid-Script-Google-Flow-music-ai/Yt%20Vid%20Script%20Google%20Flow%20music%20ai.md)
