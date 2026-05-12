@@ -2,6 +2,9 @@
  Googles new Flow Music Tool powered by [Lyria 3 Pro](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/) is going to ruin the music industry.
 
 
+ > Lyria 3 Pro falls under [this license](https://cloud.google.com/terms/genai-preview-products)
+
+
 **Audio Examples:**
 - [September Kills everything  - snailmode](https://www.flowmusic.app/song/07ee8a62-3967-4b13-91e9-792766662a20)
 - [Rollercoaster - haightstreetcds](https://www.flowmusic.app/song/ed84d1d6-7e78-41e8-8998-fd4ec2d7f0c0)
